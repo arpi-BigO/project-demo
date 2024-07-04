@@ -1,4 +1,6 @@
 # project-demo
+
 My first git repo.
 <br>
-Author:Arpita Singh
+Author:Arpita Singh Chauhan 
+
